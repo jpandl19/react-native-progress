@@ -1,8 +1,7 @@
 {
   "name": "react-native-progress-fixed",
-  "version": "3.4.0",
-  "description":
-    "Fork of react-native-progress. Progress indicators and spinners for React Native using ReactART. Includes workaround for android overflow problems",
+  "version": "3.4.1",
+  "description": "Fork of react-native-progress. Progress indicators and spinners for React Native using ReactART. Includes workaround for android overflow problems",
   "main": "index.js",
   "scripts": {
     "test": "eslint *.js Shapes"
