@@ -1,4 +1,6 @@
-# react-native-progress
+# react-native-progress-fixed
+
+Fork of react-native-progress which includes patch for android overflow problems.
 
 Progress indicators and spinners for React Native using ReactART.
 
